@@ -5,7 +5,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rafiqislam319&label=Profile%20views&color=0e75b6&style=flat" alt="rafiqislam319" /> </p>
 
-- 🔭 I’m currently working on [BlogSite](https://github.com/rafiqislam319/BlogSite)
 
 - 📫 How to reach me **rafiqislam319@gmail.com**
 
